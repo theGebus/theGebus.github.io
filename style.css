@@ -1,0 +1,12 @@
+body{
+  
+    background-image: url(Zelda\ Classic\ Picture.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.brand img{
+    width: 200px;
+    height: 200px;
+}
